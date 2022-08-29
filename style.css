@@ -1,0 +1,35 @@
+#today {
+    font-family: pretendard;
+    font-weight: 600;
+    display: flex;
+    
+}
+
+.breakfast, .lunch, .dinner {
+    width: 30vw;
+    height: auto;
+    border-style: solid;
+    border-color: deepskyblue;
+    border-radius: 2vw;
+    background-color: mintcream;
+    margin: 5vh 2vw;
+
+}
+
+.mealName {
+    text-align: center;
+    font-size: 4vw;
+    margin: 2vh 0 3vh 0;
+}
+
+.meal {
+    text-align: center;
+    font-size: 2vw;
+    margin: 1vh 0;
+}
+
+.allergy {
+    text-align: center;
+    font-size: 1.5vw;
+    margin: 0.5vh 0;
+}
